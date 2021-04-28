@@ -4,6 +4,7 @@ Scroll through your insta/fb feeds just by doing some action on your webcam usin
 ***
 Requirements:-
 -pip install opencv-python
+
 -pip install PyAutoGUI
 
 ***
